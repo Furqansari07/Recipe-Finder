@@ -4,12 +4,12 @@
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
-    "@react-oauth/google": "^1.2.0",
+    
     "bootstrap": "^5.3.3",
     "firebase": "^10.12.0",
     "html2canvas": "^1.4.1",
     "i18next": "^23.11.5",
-    "i18next-browser-languagedetector": "^8.2.1",
+    "i18next-browser-languagedetector": "^6.1.5",
     "jspdf": "^2.5.1",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.2",
