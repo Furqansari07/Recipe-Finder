@@ -1,0 +1,37 @@
+{
+  "name": "recipe-finder",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "@react-oauth/google": "^1.2.0",
+    "bootstrap": "^5.3.3",
+    "firebase": "^10.12.0",
+    "html2canvas": "^1.4.1",
+    "i18next": "^23.11.5",
+    "i18next-browser-languagedetector": "^8.2.1",
+    "jspdf": "^2.5.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^14.1.2",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
